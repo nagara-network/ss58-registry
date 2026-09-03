@@ -11,7 +11,7 @@
     "build": "npm run alignVersion && rm -rf npm_dist && mkdir -p npm_dist && ./scripts/js/build_js.mjs"
   },
   "devDependencies": {
-    "toml": "^3.0.0"
+    "toml": "^4.2.0"
   },
   "dependencies": {}
 }
